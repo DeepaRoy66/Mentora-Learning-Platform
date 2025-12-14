@@ -1,4 +1,4 @@
-Mentora – Project Workspace 
+Mentora Learning Platform
 
 Project Overview
 
